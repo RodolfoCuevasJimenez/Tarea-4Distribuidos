@@ -1,7 +1,7 @@
 <!-- Home.vue -->
 <template>
   <div>
-    <h2 style="margin-top: 15px">Tarea #3 Rodolfo Cuevas Jiménez</h2>
+    <h2 style="margin-top: 15px">Tarea #4 Rodolfo Cuevas Jiménez</h2>
       <p>This website offers information on books, authors and publishers.</p>
     <ul>
       <li><router-link to='/book'>Books information</router-link></li>
